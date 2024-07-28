@@ -1,0 +1,19 @@
+node_modules/
+.env
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Config files
+.env
+
+# Next.js specific
+.next/
